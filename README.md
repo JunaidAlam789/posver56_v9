@@ -16,7 +16,7 @@ A modern Point of Sale system built with Next.js 14, Prisma, PostgreSQL, and sha
 
 - [Next.js 14](https://nextjs.org/) - React framework
 - [Prisma](https://www.prisma.io/) - Database ORM
-- [PostgreSQL]([https://www.postgresql.org/])) - Database
+- [PostgreSQL](https://www.postgresql.org/) - Database
 - [shadcn/ui](https://ui.shadcn.com/) - UI components
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
